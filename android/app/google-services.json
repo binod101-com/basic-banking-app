@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548848905061",
+    "project_id": "basic-banking-app-eb2a6",
+    "storage_bucket": "basic-banking-app-eb2a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548848905061:android:0520ed70505e6366bb4f8c",
+        "android_client_info": {
+          "package_name": "com.example.basic_banking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548848905061-cj5u7nugjp6ogv9q5vd00huk1s8260ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhAU_r5etnEktPb-B0S25pp2cv1HUP2tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548848905061-cj5u7nugjp6ogv9q5vd00huk1s8260ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
